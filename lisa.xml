@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project path="device/xiaomi/lisa" name="ALKALiKong233/device_xiaomi_lisa" groups="devices" remote="github" revision="twelve" />
+<project path="device/xiaomi/lisa-prebuilt" name="ALKALiKong/device_xiaomi_lisa-prebuilt" groups="devices" remote="gitlab" revision="twelve" />
+<project path="vendor/xiaomi/lisa" name="ALKALiKong/android_vendor_xiaomi_lisa" groups="devices" remote="gitlab" revision="twelve" />
+<project path="vendor/xiaomi/lisa-extra" name="ALKALiKong233/vendor_xiaomi_lisa-extra" groups="devices" remote="github" revision="twelve" />
+<project path="kernel/xiaomi/sm8350" name="Demon000/kernel_xiaomi_sm8350" groups="devices" remote="github" revision="lineage-18.1" />
+
+<project path="packages/apps/GCamGOPrebuilt" name="ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt" groups="devices" remote="github" revision="arrow-11.0" />
+
+<project path="hardware/qcom-caf/sm8350/audio" name="ALKALiKong233/hardware_qcom-caf_sm8350_audio" groups="devices" remote="github" revision="twelve" />
+<project path="hardware/qcom-caf/sm8350/media" name="ALKALiKong233/hardware_qcom-caf_sm8350_media" groups="devices" remote="github" revision="twelve" />
+<project path="hardware/qcom-caf/sm8350/display" name="ALKALiKong233/hardware_qcom-caf_sm8350_display" groups="devices" remote="github" revision="twelve" />
+
+</manifest>
