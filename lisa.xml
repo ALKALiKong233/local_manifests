@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project path="device/xiaomi/lisa" name="ALKALiKong-ROMProject/device_xiaomi_lisa" groups="devices" remote="github" revision="lineage-18.1" />
-<project path="vendor/xiaomi/lisa" name="ALKALiKong-ROMProject/vendor_xiaomi_lisa" groups="devices" remote="github" revision="lineage-18.1" />
-<project path="kernel/xiaomi/lisa" name="xiaomi-lisa-devs/android_kernel_xiaomi_sm8350" groups="devices" remote="github" revision="staging/lineage-18.1" />
+<remote name="gh" fetch="https://github.com" />
+<project path="device/xiaomi/lisa" name="ALKALiKong-ROMProject/device_xiaomi_lisa" groups="devices" remote="gh" revision="lineage-18.1" />
+<project path="vendor/xiaomi/lisa" name="ALKALiKong-ROMProject/vendor_xiaomi_lisa" groups="devices" remote="gh" revision="lineage-18.1" />
+<project path="kernel/xiaomi/lisa" name="xiaomi-lisa-devs/android_kernel_xiaomi_sm8350" groups="devices" remote="gh" revision="staging/lineage-18.1" />
 </manifest>
