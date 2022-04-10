@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project path="device/xiaomi/lisa" name="ALKALiKong-ROMProject/device_xiaomi_lisa" groups="devices" remote="github" revision="twelve-rebased" />
-<project path="vendor/xiaomi/lisa" name="ALKALiKong/vendor_xiaomi_lisa" groups="devices" remote="gitlab" revision="twelve-rebased" />
-<project path="kernel/xiaomi/lisa" name="ghostrider-reborn/android_kernel_xiaomi_lisa" groups="devices" remote="github" revision="sapphire" />
+<project path="device/xiaomi/lisa" name="ALKALiKong-ROMProject/device_xiaomi_lisa" groups="devices" remote="github" revision="twelve" />
+<project path="vendor/xiaomi/lisa" name="ALKALiKong-ROMProject/vendor_xiaomi_lisa" groups="devices" remote="github" revision="twelve" />
+<project path="kernel/xiaomi/lisa" name="ALKALiKong-ROMProject/kernel_xiaomi_lisa" groups="devices" remote="github" revision="twelve" />
 </manifest>
